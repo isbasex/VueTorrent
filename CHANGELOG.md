@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.19.0](https://github.com/WDaan/VueTorrent/compare/v0.18.2...v0.19.0) (2022-10-01)
+
+
+### Features
+
+* support for renaming folders ([#500](https://github.com/WDaan/VueTorrent/issues/500)) ([cf8f43a](https://github.com/WDaan/VueTorrent/commit/cf8f43aac3c235cf616bed4c1ce1ceda0fad8fe4))
+
 ### [0.18.2](https://github.com/WDaan/VueTorrent/compare/v0.18.1...v0.18.2) (2022-09-13)
 
 
